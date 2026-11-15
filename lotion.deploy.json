@@ -1,0 +1,8 @@
+{
+  "workerName": "lotion-share",
+  "accountId": "a6f90b6ea3dd1ee17fbca66a01108b5c",
+  "databaseName": "lotion-share-db",
+  "bucketName": "lotion-share-files",
+  "databaseId": "df1bfda9-9103-4911-8be8-a77e5b0bdcf9",
+  "url": "https://lotion-share.gaurav-a6f.workers.dev"
+}
